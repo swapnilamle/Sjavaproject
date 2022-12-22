@@ -1,0 +1,4 @@
+All  classes in java are  named in camel case convection.
+java is object oriented programming language.
+function in java used lower case convection.
+java is sensetive langauge.
